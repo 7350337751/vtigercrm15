@@ -4,3 +4,10 @@
 <p>my loc is pune</p>
 <p>my loc is pune</p>
 </html>
+
+driver.manage().window().maximise();
+driver.manage().window().minimise();
+driver.manage().window().fullscreen();
+driver.manage().window().getsize();
+driver.manage().window().setsize();
+driver.manage().window().setposition();
